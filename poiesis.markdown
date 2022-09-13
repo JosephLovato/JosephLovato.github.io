@@ -1,5 +1,5 @@
 ---
-title: Poiesis
+title: 💻 Poiesis
 layout: default
 type: primary
 order: 3
@@ -9,9 +9,30 @@ order: 3
 
 *Projects of mine from all disciplines (software, art, video, etc.)*
 
+***
+***
+
 ## School CS Projects
 
 Here are a few CS projects from coursework:
 
 - [MarimberryPi](https://github.com/JosephLovato/MarimberryPi) Prototype of an electronic marimba using a Raspberry Pi
 - [Rate-My-Professor-Analysis](https://github.com/JosephLovato/Rate-My-Professor-Analysis) An analysis of Rate My Professor data using a SQL database
+
+## School Humanities Projects
+
+-  ["Tell me a Story"](downloads/Zine.pdf) *Zine* (the culmination of a class on cognitive tools) 
+- ["The Observatory"](downloads/IDEAS-Portfolio.pdf) *Screenplay* (a portfolio from a class on engineering ethics, design, and art)
+- ["Howdy Folks"](downloads/Howdy-Folks.pdf) *Article* (written for a U.S. history assignment)
+- ["Share a Moment with You"](downloads/Share-a-Moment-with-You.mp3) *Podcast* (created for a memoir assignment)
+- ["The Ravaging Natural Wars"](downloads/The-Ravaing-Natural-Wars.pdf) *Article* (Written for a practicum after my trip abroad in Rome)
+- ["5 Minute Meditation To Increase Energy and Sense of Wonder"](https://youtu.be/R8f-YolstrE) *Video/Song* (meditation created for a class on spirituality)
+
+## Video Projects
+
+- ["Bliss Await in Tivoli"](https://www.youtube.com/watch?v=SmBrW9T3C7E) A short-form piece about my adventures in Tivoli, Italy
+- ["A Few Days in Tokyo 2017"](https://youtu.be/CWHTFtZsQug) A vlog from my trip to Tokyo, Japan
+
+## Music
+
+- ["Mr. Miami"](https://www.youtube.com/watch?v=ZGf1Uvc9OpU) The first song I ever released. Made with Garage Band :)

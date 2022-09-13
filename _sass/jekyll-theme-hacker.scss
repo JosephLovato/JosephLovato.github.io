@@ -45,6 +45,15 @@ li {
   line-height: 1.4 ;
 }
 
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #ffffff;
+  border-top: 1px double $terminal; //header;
+  color:$terminal;
+  margin-top: auto;
+}
+
 /* Header, <header>
    header   - container
    h1       - project name
@@ -54,7 +63,7 @@ li {
 header {
   background: #ffffff;
   width: 100%;
-  border-bottom: 1px dashed $terminal; //header;
+  border-bottom: 1px double $terminal; //header;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -100,6 +109,10 @@ header h2 {
 #main_content {
   width: 100%;
   -webkit-font-smoothing: antialiased;
+  // display: flex;
+  min-height: 100vh;
+  // flex-direction: column;
+  // justify-content: flex-start;
 }
 section img {
   max-width: 100%
@@ -156,7 +169,7 @@ dt {
 blockquote {
   color: $blockquote-color;
   padding-left: 10px;
-  border-left: 1px dotted $blockquote-border;
+  border-left: 1px double $blockquote-border;
 }
 
 pre {
@@ -187,7 +200,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px double #b5e853;
   padding: 5px 10px;
 }
 
@@ -198,7 +211,7 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #888888;
+  border-bottom: 1px double #888888;
   color: #b5e853;
 }
 
@@ -266,3 +279,8 @@ a {
 #a-title {
   text-decoration: none;
 }
+
+blockquote{
+  color: $terminal
+}
+

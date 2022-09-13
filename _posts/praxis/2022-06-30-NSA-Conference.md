@@ -1,0 +1,37 @@
+---
+layout: blog_post
+title:  "First NSA Conference"
+date:   2022-06-30
+category: praxis
+tags: [stuttering, conference]
+location: "New Port Beach, CA"
+cover: assets/images/nsa/vea.jpg
+
+---
+
+
+My stutter is a gift. That's right, the thing that adds extra s-s-syllables to my speech and makes words a little harder to say... its a gift. Why? Because it has challenged me; it has led me to the most amazing people; it has opened my eyes to a brave and supportive community; and it has fundamentally changed how I answer the question: *what is a voice?* My voice is my stutter, and my stutter is my voice. 
+
+<img align="right" width="40%" style="padding-left:10pt" src="/assets/images/nsa/vea.jpg">
+
+Around a year and half ago, I was on my computer doing homework when a thought popped into my head. *There must be a conference for people who stutter! There must be.* A few google searches later and I landed on the National Stuttering Association website ([westutter.com](westutter.com)). The countdown for the next conference was only a few months away, so I knew it was too late to go. So I waited, then revisited the page this spring and registered for the 2022 NSA Conference in Newport Beach, California! Thanks to the generosity of my [scholarship donors](https://harveyscholars.mines.edu/vision/), I was able to get all of the conference expenses paid for!
+
+The months leading up to the conference, I wasn't nervous at all. I'm pretty comfortable with my stutter and I have worked hard to accept it into my life. That excitement continued as I boarded my Tuesday evening flight from Denver to Orange County. And then I landed, and a tickle of nervousness crept into my belly. And then I got to the hotel late on the eve of the first day of the conference and I heard a stutter that wasn't my own! Someone in the lobby was talking to the hotel concierge and stuttering! The nerves set in even deeper.
+
+<img align="left" width="40%" style="padding-right:10pt" src="/assets/images/nsa/nametag.jpg">
+
+The next morning I meandered to the lobby as the check-in time of 12pm neared. I knew absolutely **zero** people. To be honest, I was terrified. I waited in line to register, hearing stutters echo around me and I felt like running away and hiding. I managed to have a few conversations, but I was still feeling awful. I escaped the crowded lobby and headed back to my room, an instinct that fellow introverts can surely relate to. On my way to my room, a man was seated on a bench in the hallway. He was a bit older, but his name badge was very long and colorful, indicating a long tenure with the NSA. We made eye contact and I slowed down. He got out of his chair and asked me my name and whether I was a Person Who Stutters (PWS). I responded yes. I think he could see my nervousness, so he said, "Go out there and be in as many conversations as you can, meet as many people as you can". In that moment, that advice seemed impossible. I wanted to do quite the opposite. But, his voice had a ring of truth, so I held onto his advice as I thanked him and returned to my room. I called my mom and my boyfriend to ground myself before taking a deep breath and going back down to the lobby for the first event: a first-timers workshop. Within the course of an hour, my entire perspective changed. I was no longer in the "real-world". I was with my people. I was with other stutters who understood not only what it feels like to have a stutter, but what it feels like to be alone. *I surely wasn't alone anymore.*
+
+<img align="right" width="40%" style="padding-left:10pt" src="/assets/images/nsa/beach.png">
+
+The next few days proved to be life-changing in all the ways I had predicted and all of the ways I hadn't. I met stutters younger than me. Stutters my age. Stutters older than me. Stutters from all over the country and world. Stutters with small s-stutters. Stutters with l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-long s-s-s-s-s-stutters. Stutters who are overt (they stutter in front of anyone and everyone). Stutters who are covert (they sometimes hide their stutter using tricks like changing words. I found out that I am a pretty covert stutterer). I also met many supporters of stutters, including but not limited to: fathers, mothers, brothers, sisters, spouses, speech language pathologists, and friends. I went to many workshops, including one on stuttering acceptance, a covert open-mic (which I was able to speak at and tell my story), and a "Passing Twice" workshop. This was a workshop for people who stutter and are in the LGBTQ+ community. In the workshop I heard the most amazing stories from people who have risen up to accept themselves in their stutter and sexuality/gender identity. After the workshop, they offered a sign-up link for anyone who wanted to continue the conversation at a dinner the following evening. At this point in the conference, I was leaning heavily on the advice of the man in the hallway, so I said *why not!* and I signed up. 
+
+<img align="left" width="40%" style="padding-right:10pt" src="/assets/images/nsa/group.png">
+
+When I showed up in the lobby to walk to dinner with the others who had signed-up, I had no clue that many of them would become dear friends of mine. Over the course of the next few days I came to know and respect a group of amazing human beings, all with an inspiring story (or two). We talked and talked and talked and talked, and stuttered and stuttered and stuttered and it felt *SO GOOD*. We were all truly in heaven, and consistently reminding each other that the NSA conference was something really special. Many long-time NSA Conference attendees told me over and over again that the conference was an inflection point for them, especially when I introduced myself as a first-timer. I heard excitement in their voice as they realized I was experiencing the conference for the very first time, possibly as they reminisced memories of their first conference, years or decades before. 
+
+I stuttered more in the span of 4 days than I have in last 4 months, and it felt amazing. Being there among fellow stutterers truly changed how I view stuttering. For much of my life, I viewed my stutter as a burden to those around me-- something to hide and mask. But, hearing so many beautiful stutters taught me the power of patience and graciousness in a world that expects us to speak too quickly. The conversations I had were deep, engaging, and heartfelt. The stutters were open and free to dance in their repetitions and blocks (a block is when a stutter is silent, making it seem like the stutterer has paused). 
+
+<img align="right" width="40%" style="padding-left:10pt" src="/assets/images/nsa/dance.png">
+
+At the final Saturday night banquet, by happenstance, I sat next to the man that I met in the hallway on the very first day. I told him that his advice was brilliant, and that my conference had been particularly magical because of it. The rest of the night, my new friends and I danced and celebrated together, holding each moment close to our hearts as we prepared to depart back to the "real-world". I intend on attending many more NSA conferences over the coming years, but I this one will remain close to my heart as it was my first conference. My first time meeting that many stutterers. My first time learning true patience. My first time understanding the support provided by the NSA. And my first time *truly* letting my stutter fly :) 
