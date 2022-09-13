@@ -21,7 +21,7 @@ Here are a few CS projects from coursework:
 
 ## School Humanities Projects
 
--  ["Tell me a Story"](downloads/Zine.pdf) *Zine* (the culmination of a class on cognitive tools) 
+-  ["Tell me a Story"](https://drive.google.com/file/d/15IzTQFSmt9sPijs8FN5GsTFsbDogPnB2/view?usp=sharing) *Zine* (the culmination of a class on cognitive tools) 
 - ["The Observatory"](downloads/IDEAS-Portfolio.pdf) *Screenplay* (a portfolio from a class on engineering ethics, design, and art)
 - ["Howdy Folks"](downloads/Howdy-Folks.pdf) *Article* (written for a U.S. history assignment)
 - ["Share a Moment with You"](downloads/Share-a-Moment-with-You.mp3) *Podcast* (created for a memoir assignment)
