@@ -4,15 +4,16 @@ layout: default
 
 <small>{{ page.date | date: "%B %-d %Y" }}</small>
 {% if page.location %}
-  <small>- {{ page.location }}</small>
+<small>- {{ page.location }}</small>
 {% endif %}
 
 <h1>{{ page.title }}</h1>
 
 {% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></small>
+<small>tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></small>
 {% endif %}
 
 
-{{content}}
-
+<div class="actual_content">
+  {{ content }}
+</div>

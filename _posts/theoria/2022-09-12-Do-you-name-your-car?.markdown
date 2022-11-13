@@ -6,8 +6,7 @@ category: theoria
 tags: psychology
 ---
 
-
-*The fascinating psychology behind our need to find the human in everything non-human.*
+The fascinating psychology behind our need to find the human in everything non-human.
 
 I was recently sitting with my roommate doing homework at the dining room table when, in a string of procrastinating conversations, an interesting question was posed. As these conversations go, I can't quite remember how we arrived at the topic, yet the question stands on its own: "Do you name your car(s)?" I was intrigued by this question because in my history of driving, naming my car has never crossed my mind—I suppose I don't necessitate a name for a car as I would for, say, a dog or cat. Yet, as I continued talking with my roommate, I realized that naming cars might be just as normal for some people as not naming them is for me. But exactly why do people name inanimate objects? A quick google search with this query gave me a simple answer: _anthropomorphism_. But what exactly is that? In this article I'll unpack this fascinating psychological phenomena as researched by leading experts in the field and reveal just how prevalent anthropomorphism is in our daily lives, from naming cars to new-age Artificial Intelligence.
 
@@ -53,7 +52,7 @@ This next factor of anthropomorphism, while a bit more convoluted than sociality
 
 > "Effectance motivation entails the desire to reduce uncertainty and ambiguity, at least in part with the goal of attaining a sense of predictability in the environment." -_Epley et. al 2007_
 
-We live in a chaotic world—this is no doubt—and thus we find ways to make sense of it all. The researchers go on to argue that anthropomorphism is one those ways. Our deep understanding of "how to be human" spills over into our interactions with our surroundings, prompting our inner psyche to treat non-human things as humans in order to better understand them. Also, a facet of this effectance anthropomorphism is control, meaning that by projecting human characteristics onto non-humans, we can better control those things. In another survey, the researchers proved this by asking participants to watch videos of two dogs, one showing unpredictable behavior and another predictable behavior. Upon measuring the participants' "desire for control" against their anthropomorphic rating of the two dogs, those participants with a higher desire for control showed higher anthropomorphic ratings of the unpredictable dog. The results of this study confirm that when we are confused about something in our environment, we tend to apply our honed human-to-human analytical skills to the situation.
+We live in a chaotic world—this is no doubt—and thus we find ways to make sense of it all. The researchers go on to argue that anthropomorphism is one of those ways. Our deep understanding of "how to be human" spills over into our interactions with our surroundings, prompting our inner psyche to treat non-human things as humans in order to better understand them. Also, a facet of this effectance anthropomorphism is control, meaning that by projecting human characteristics onto non-humans, we can better control those things. In another survey, the researchers proved this by asking participants to watch videos of two dogs, one showing unpredictable behavior and another predictable behavior. Upon measuring the participants' "desire for control" against their anthropomorphic rating of the two dogs, those participants with a higher desire for control showed higher anthropomorphic ratings of the unpredictable dog. The results of this study confirm that when we are confused about something in our environment, we tend to apply our honed human-to-human analytical skills to the situation.
 
 But, once again, we didn't necessarily need an academic study to prove what has been culturally obvious for millennia.
 
@@ -64,7 +63,7 @@ But, once again, we didn't necessarily need an academic study to prove what has 
     <figcaption>Constellations, stellarium-web.org</figcaption>
 </figure>
 
-Since our beginnings we have sought to understand the mysteries of our cosmic existence via our human intuitions. Another modern example of effectance anthropomorphism is COVID-19. Much of the language used to explain the virus attributes human actions, such as "waging war against COVID" or "the virus has come back with a vengeance." COVID-19, a non-living jumble of organic material has cost the lives of millions of people—-humanizing the virus is our way to cope and attempt to control its threat to humanity.
+Since our beginnings we have sought to understand the mysteries of our cosmic existence via our human intuitions. Another modern example of effectance anthropomorphism is COVID-19. Much of the language used to explain the virus attributes human actions, such as "waging war against COVID" or "the virus has come back with a vengeance." COVID-19, a non-living jumble of organic material has cost the lives of millions of people---humanizing the virus is our way to cope and attempt to control its threat to humanity.
 
 <figure align="center">
     <img width="40%" src="/assets/images/car/covid.jpg">

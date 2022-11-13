@@ -7,10 +7,9 @@ order: 3
 
 # Poiesis
 
-*Projects of mine from all disciplines (software, art, video, etc.)*
+Projects of mine from all disciplines (software, art, video, etc.)
 
-***
-***
+<hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
 ## School CS Projects
 
@@ -25,6 +24,7 @@ Here are a few CS projects from coursework:
 - ["The Observatory"](downloads/IDEAS-Portfolio.pdf) *Screenplay* (a portfolio from a class on engineering ethics, design, and art)
 - ["Howdy Folks"](downloads/Howdy-Folks.pdf) *Article* (written for a U.S. history assignment)
 - ["Share a Moment with You"](downloads/Share-a-Moment-with-You.mp3) *Podcast* (created for a memoir assignment)
+- ["Transportation, Identity and Adaptation: The Role of Road Systems in Cities From Ancient to Modern"](downloads/Research-Paper-Practicum-Joey_Lovato.pdf) *Research Paper* (written for my practicum before my trip abroad in Rome)
 - ["The Ravaging Natural Wars"](downloads/The-Ravaing-Natural-Wars.pdf) *Article* (Written for a practicum after my trip abroad in Rome)
 - ["5 Minute Meditation To Increase Energy and Sense of Wonder"](https://youtu.be/R8f-YolstrE) *Video/Song* (meditation created for a class on spirituality)
 

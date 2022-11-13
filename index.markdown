@@ -14,8 +14,8 @@ Hello there! I am an energetic computer scientist, creative problem solver, and 
 In complement to my journey as a computer scientist, I am also a writer, philosopher, musician, and filmmaker. 
 
 
-<a style="color:red;" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">#</a><a style="color:orange" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">p</a><a style="color:gold" target="_blank" href="https://https://www.loc.gov/lgbt-pride-month/about/">r</a><a style="color:green" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">i</a><a style="color:blue" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">d</a><a style="color:purple" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">e</a>
-<a style="color:red;" target="_blank" href="https://youtu.be/3frkqULr008?t=35">#loveislove</a>
+<a style="color:red;" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">#</a><a style="color:orange" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">p</a><a style="color:gold" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">r</a><a style="color:green" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">i</a><a style="color:blue" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">d</a><a style="color:purple" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">e</a>
+<a style="color:red;" target="_blank" href="https://youtu.be/3frkqULr008?t=36">#loveislove</a>
 <a style="color:green;" target="_blank" href="https://teamtrees.org/">#teamtrees</a>
 <a style="color:purple;" target="_blank" href="https://westutter.org/">#westutter</a>
 
@@ -76,7 +76,7 @@ I have worked across campus in various roles, primarily as assistants/adjuncts t
 - [Mines Marketing and Communications Assistant](https://www.mines.edu/communications/) (video production; video editing)
 - [Harvey Scholars](https://harveyscholars.mines.edu/) Communications Coordinator 
 - [Harvey Scholars](https://harveyscholars.mines.edu/) 10th Anniversary Video Committee Lead
-- oSTEM (Mine's LGBTQ+ Organization) Secretary, Grad Student Liason
+- [oSTEM](https://orgs.mines.edu/ostem) (Mine's LGBTQ+ Organization) Secretary, Grad Student Liason
 
 ## + Industry
 

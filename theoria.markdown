@@ -7,10 +7,9 @@ order: 2
 
 # Theoria
 
-*Learning and truth seeking via journalism, book reviews, tech articles, and the like*
+Learning and truth seeking via journalism, book reviews, tech articles, and the like
 
-***
-***
+<hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
 <ul style="padding-left: 0;">
 {% assign posts = site.posts | where: "category", "theoria" %}

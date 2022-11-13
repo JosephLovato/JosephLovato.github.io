@@ -9,7 +9,6 @@ cover: assets/images/nsa/vea.jpg
 
 ---
 
-
 My stutter is a gift. That's right, the thing that adds extra s-s-syllables to my speech and makes words a little harder to say... its a gift. Why? Because it has challenged me; it has led me to the most amazing people; it has opened my eyes to a brave and supportive community; and it has fundamentally changed how I answer the question: *what is a voice?* My voice is my stutter, and my stutter is my voice. 
 
 <img align="right" width="40%" style="padding-left:10pt" src="/assets/images/nsa/vea.jpg">
@@ -32,6 +31,6 @@ When I showed up in the lobby to walk to dinner with the others who had signed-u
 
 I stuttered more in the span of 4 days than I have in last 4 months, and it felt amazing. Being there among fellow stutterers truly changed how I view stuttering. For much of my life, I viewed my stutter as a burden to those around me-- something to hide and mask. But, hearing so many beautiful stutters taught me the power of patience and graciousness in a world that expects us to speak too quickly. The conversations I had were deep, engaging, and heartfelt. The stutters were open and free to dance in their repetitions and blocks (a block is when a stutter is silent, making it seem like the stutterer has paused). 
 
-<img align="right" width="40%" style="padding-left:10pt" src="/assets/images/nsa/dance.png">
+<img align="right" width="30%" style="padding-left:10pt" src="/assets/images/nsa/dance.png">
 
 At the final Saturday night banquet, by happenstance, I sat next to the man that I met in the hallway on the very first day. I told him that his advice was brilliant, and that my conference had been particularly magical because of it. The rest of the night, my new friends and I danced and celebrated together, holding each moment close to our hearts as we prepared to depart back to the "real-world". I intend on attending many more NSA conferences over the coming years, but I this one will remain close to my heart as it was my first conference. My first time meeting that many stutterers. My first time learning true patience. My first time understanding the support provided by the NSA. And my first time *truly* letting my stutter fly :) 

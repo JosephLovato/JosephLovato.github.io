@@ -127,4 +127,6 @@ a { color: #0079db; text-shadow: 0 0 5px rgba(104, 182, 255, 0.5); }
 
 blockquote { color: #0079db; }
 
+.actual_content { font-family: Verdana; text-align: justify; }
+
 /*# sourceMappingURL=style.css.map */
