@@ -4,7 +4,7 @@ title:  "First NSA Conference"
 date:   2022-06-30
 category: praxis
 tags: [stuttering, conference]
-location: "New Port Beach, CA"
+location: "🌴 New Port Beach, CA"
 cover: assets/images/nsa/vea.jpg
 
 ---
