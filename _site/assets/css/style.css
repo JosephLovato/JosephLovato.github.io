@@ -41,7 +41,7 @@
 
 .highlight .ss { color: #666; }
 
-body { margin: 0; padding: 0; background: #deecfc url("../images/bkg.png") 0 0; color: #141518; font-size: 16px; line-height: 1.5; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; }
+body { margin: 0; padding: 0; background: #f3f3f3; color: #141518; font-size: 16px; line-height: 1.5; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; }
 
 /* General & 'Reset' Stuff */
 .container { width: 90%; max-width: 1000px; margin: 0 auto; }
@@ -52,10 +52,10 @@ h1, h2, h3, h4, h5, h6 { margin: 0 0 0px; }
 
 li { line-height: 1.4; }
 
-footer { text-align: center; padding: 3px; background-color: #ffffff; border-top: 1px double #0079db; color: #0079db; margin-top: auto; }
+footer { text-align: center; padding: 3px; background-color: white; border-top: 1px double #0079db; color: #0079db; margin-top: auto; }
 
 /* Header, <header> header   - container h1       - project name h2       - project description */
-header { background: #ffffff; width: 100%; border-bottom: 1px double #0079db; padding: 20px 0; margin: 0 0 40px 0; }
+header { background: white; width: 100%; border-bottom: 1px double #0079db; padding: 20px 0; margin: 0 0 40px 0; }
 
 header h1 { font-size: 30px; line-height: 1.5; margin: 0 0 0 -40px; font-weight: bold; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; color: #0079db; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(181, 232, 83, 0.1), 0 0 10px rgba(181, 232, 83, 0.1); letter-spacing: -1px; -webkit-font-smoothing: antialiased; }
 
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: normal; font-family: Monaco, "Bitstream Ve
 
 dt { font-style: italic; font-weight: bold; }
 
-blockquote { color: #aaa; padding-left: 10px; border-left: 1px double #666; }
+blockquote { color: #0079db; padding-left: 10px; border-left: 1px double #666; }
 
 pre { background: rgba(0, 0, 0, 0.9); border: 1px solid rgba(255, 255, 255, 0.15); padding: 10px; font-size: 16px; color: #b5e853; border-radius: 2px; word-wrap: normal; overflow: auto; overflow-y: hidden; }
 
@@ -125,8 +125,34 @@ a { color: #0079db; text-shadow: 0 0 5px rgba(104, 182, 255, 0.5); }
 
 #a-title { text-decoration: none; }
 
-blockquote { color: #0079db; }
-
 .actual_content { font-family: Verdana; text-align: justify; }
+
+.github { background-image: url("/assets/images/github-mark.png"); background-size: 100%; }
+
+.linkedin { background-image: url("/assets/images/ledin-logo.png"); background-origin: content-box; background-size: 100%; background-clip: content-box; }
+
+.mines { background-image: url("../images/mines-logo.png"); background-origin: content-box; background-size: 100%; background-clip: content-box; }
+
+figure { text-align: center; }
+
+.dark-mode { background: #202123; color: white; }
+
+.dark-mode header { background: #0c0c0c; }
+
+.dark-mode header h1 { color: #459ff8; }
+
+.dark-mode body { background: rgba(0, 0, 0, 0.8); }
+
+.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6 { color: #459ff8; }
+
+.dark-mode footer { background-color: #0c0c0c; color: #459ff8; }
+
+.dark-mode a { color: #459ff8; }
+
+.dark-mode blockquote { color: #459ff8; border-left: 1px double #aaa; }
+
+.dark-mode .github { background-image: url("/assets/images/github-mark-dark.png"); background-size: 100%; }
+
+.dark-mode .mines { background-image: url("/assets/images/mines-logo-dark.png"); background-size: 100%; }
 
 /*# sourceMappingURL=style.css.map */

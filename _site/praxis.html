@@ -6,6 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="/assets/css/style.css?v=">
+  <link rel="stylesheet" href="/assets/css/toggle-switch.css">
+  <link rel="preload" href="/assets/images/github-mark.png" as="image">
+  <link rel="preload" href="/assets/images/github-mark-dark.png" as="image">
+  <link rel="preload" href="/assets/images/mines-logo.png" as="image">
+  <link rel="preload" href="/assets/images/mines-logo-dark.png" as="image">
+  <link rel="preload" href="/assets/images/ledin-logo.png" as="image">
+  <link rel="icon" type="image/png" href="/assets/images/profile.png">
+
   <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup theme-color -->
@@ -29,33 +37,34 @@
 </head>
 
 <body>
+  <script src="/assets/js/dark-mode.js"></script>
 
   <header>
     <div class="container">
-      
+
       <a id="a-title" href="/">
-        <h1 style="display: inline">Joey Lovato  </h1>
+        <h1 style="display: inline">Joey Lovato </h1>
         <span style="float: right">
           <a href="https://github.com/JosephLovato" target="_blank" rel="noopener noreferrer">
-            <img style="float:right" src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="40">
+            <img class="github" style="float:right;" src="/assets/images/oxo.png" width="40" height="40">
           </a>
           <a href="https://www.linkedin.com/in/joseph-lovato/" target="_blank" rel="noopener noreferrer">
-            <img style="float:right; padding-left: 10pt;" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="48">
+            <img class="linkedin" style="float:right; padding-left: 10pt; padding-right: 5pt;" src="/assets/images/oxo.png" width="40" height="40">
           </a>
           <h3 style="display: inline; float: right; padding-top: 8pt; padding-right: 20pt;">
-          
-              
-              <a style="text-decoration: none; padding: 6pt;" href="http://localhost:4000/">🏠 Home</a>
-          
-              <a style="text-decoration: none; padding: 6pt;" href="http://localhost:4000/theoria.html">📖 Theoria</a>
-          
-              <a style="text-decoration: none; padding: 6pt;" href="http://localhost:4000/poiesis.html">💻 Poiesis</a>
-          
-              <a style="text-decoration: none; padding: 6pt;" href="http://localhost:4000/praxis.html">✈️ Praxis</a>
-          
+            
+            
+            <a style="text-decoration: none; padding: 6pt;" href="http://localhost:4000/">🏠 Home</a>
+            
+            <a style="text-decoration: none; padding: 6pt;" href="http://localhost:4000/theoria.html">📖 Theoria</a>
+            
+            <a style="text-decoration: none; padding: 6pt;" href="http://localhost:4000/poiesis.html">💻 Poiesis</a>
+            
+            <a style="text-decoration: none; padding: 6pt;" href="http://localhost:4000/praxis.html">✈️ Praxis</a>
+            
           </h3>
         </span>
-        
+
       </a>
 
 
@@ -72,6 +81,13 @@
 
 <ul style="padding-left: 0;">
 
+
+<img style="width: 130px; float: right;" src="assets/images/brazil/">
+    <h3 style="margin : 0"><a href="/praxis/2023/01/17/Brazil.html">Post-Graduation in Brazil</a></h3>
+    <small style="margin : 0">January 17 2023 - 🇧🇷 Rio de Janeiro &amp; São Paulo, Brazil</small>
+    <t style="margin : 0"><p>After graduating with my masters, my partner and I set out on a two-week adventure in Brazil. What do you imagine when you think of Brazil, specifically Rio de Janeiro? Do you think of stunning beaches? Rolling green mountains? Christ the Redeemer? Indeed, these are the things I thought of too. As you can imagine, Rio was so much more than these things</p>
+ </t>
+    <hr>
 
 <img style="width: 130px; float: right;" src="assets/images/nsa/vea.jpg">
     <h3 style="margin : 0"><a href="/praxis/2022/06/30/NSA-Conference.html">First NSA Conference</a></h3>
@@ -97,17 +113,25 @@
 </ul>
 
     </section>
-    
+
   </div>
 
   <footer style="font-family:Monaco">
     <p>Joey Lovato ©️2022<br>
-    <small>
-      This site uses <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">jekyll</a> and is powered by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
-    </small>
+      <small>
+        This site uses <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">jekyll</a> and is powered by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
+
+        <br>
+        Dark Mode
+        <label class="switch">
+          <input type="checkbox" id="dark-mode-switch" onclick="toggleTheme()">
+          <span class="slider round"></span>
+        </label>
+      </small>
   </p></footer>
 
 </body>
 
+<script src="/assets/js/dark-mode-switch.js"></script>
 
 </html>

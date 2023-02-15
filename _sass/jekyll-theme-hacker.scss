@@ -1,12 +1,76 @@
 @import "rouge-base16-dark";
 @import "default_colors";
 
-$body-background: $eggshell;
-$body-foreground: $pen;
-$header: $terminal;
-$blockquote-color: $silver-chalice  !default;
-$blockquote-border: $dove-grey  !default;
 $container-max-width: 1000px;
+
+// default (light) colors
+$body-background: #f3f3f3;
+$body-foreground: #141518;
+$header-background: white;
+$header-foreground: #0079db;
+$link-color: #0079db;
+$blockquote-color: #0079db;
+$blockquote-border: #666;
+
+// dark mode colors
+$body-background-dark: #202123;
+$body-foreground-dark: white;
+$header-background-dark: #0c0c0c;
+$header-foreground-dark: rgb(69, 159, 248);
+$link-color-dark: rgb(69, 159, 248);
+$blockquote-color-dark: rgb(69, 159, 248);
+$blockquote-border-dark: #aaa;
+
+@mixin dark-mode {
+  background: $body-background-dark;
+  color: $body-foreground-dark;
+
+  header {
+    background: $header-background-dark
+  }
+
+  header h1 {
+    color: $header-foreground-dark
+  }
+
+  body {
+    background: rgba(0, 0, 0, 0.8)
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $header-foreground-dark;
+  }
+
+  footer {
+    background-color: $header-background-dark;
+    color: $header-foreground-dark;
+  }
+
+  a {
+    color: $link-color-dark;
+  }
+
+  blockquote {
+    color: $blockquote-color-dark;
+    border-left: 1px double $blockquote-border-dark;
+  }
+
+  .github {
+    background-image: url("/assets/images/github-mark-dark.png");
+    background-size: 100%;
+  }
+
+  .mines {
+    background-image: url("/assets/images/mines-logo-dark.png");
+    background-size: 100%;
+  }
+
+}
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
@@ -17,7 +81,7 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
+  background: $body-background; // url("../images/bkg.png") 0 0;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
@@ -53,9 +117,9 @@ li {
 footer {
   text-align: center;
   padding: 3px;
-  background-color: #ffffff;
+  background-color: $header-background;
   border-top: 1px double $terminal; //header;
-  color: $terminal;
+  color: $header-foreground;
   margin-top: auto;
 }
 
@@ -66,9 +130,9 @@ footer {
 */
 
 header {
-  background: #ffffff;
+  background: $header-background;
   width: 100%;
-  border-bottom: 1px double $terminal; //header;
+  border-bottom: 1px double $header-foreground; //header;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -79,7 +143,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $terminal; //$header;
+  color: $header-foreground;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
     0 0 5px rgba(181, 232, 83, 0.1),
     0 0 10px rgba(181, 232, 83, 0.1);
@@ -133,7 +197,7 @@ h5,
 h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $header;
+  color: $header-foreground;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
     0 0 5px rgba(181, 232, 83, 0.1),
@@ -269,7 +333,7 @@ hr {
 */
 
 a {
-  color: #0079db;
+  color: $link-color;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
@@ -293,11 +357,35 @@ a {
   text-decoration: none;
 }
 
-blockquote {
-  color: $terminal
-}
-
 .actual_content {
   font-family: Verdana;
   text-align: justify;
+}
+
+.github {
+  background-image: url("/assets/images/github-mark.png");
+  background-size: 100%;
+}
+
+.linkedin {
+  background-image: url("/assets/images/ledin-logo.png");
+  background-origin: content-box;
+  background-size: 100%;
+  background-clip: content-box;
+}
+
+.mines {
+  background-image: url("../images/mines-logo.png");
+  background-origin: content-box;
+  background-size: 100%;
+  background-clip: content-box;
+}
+
+figure {
+  text-align: center;
+}
+
+
+.dark-mode {
+  @include dark-mode
 }

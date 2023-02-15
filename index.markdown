@@ -7,11 +7,11 @@ type: primary
 ---
 
 
-<img style="float: left; padding-right: 20px;" src="assets/images/profile.png" width=200px >
+<img style="float: left; padding-right: 20px;" src="assets/images/profile.png" width=200px title="shout out to my friend Malaya for taking this amazing candid shot with a film camera!">
 
-Hello there! I am an energetic computer scientist, creative problem solver, and powerful communicator who is passionate about technical dexterity, environmental ethics, social justice, and collaboration in a time when intelligent systems and modern algorithms are changing the way people interact with computers, each other, and the world.
+Hello there! I am an energetic computer scientist, creative problem solver, and thoughtful communicator with a passion for technical dexterity, ethical design, social justice, and interdisciplinary collaboration in a time when intelligent systems and modern algorithms are changing the way people interact with computers, each other, and the world.
 
-In complement to my journey as a computer scientist, I am also a writer, philosopher, musician, and filmmaker. 
+In complement to my journey as a computer scientist, I am also a writer, philosopher, musician, filmmaker, gym-goer, and traveler.
 
 
 <a style="color:red;" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">#</a><a style="color:orange" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">p</a><a style="color:gold" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">r</a><a style="color:green" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">i</a><a style="color:blue" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">d</a><a style="color:purple" target="_blank" href="https://www.loc.gov/lgbt-pride-month/about/">e</a>
@@ -31,37 +31,37 @@ We've come too far 🧗🏽‍♂️ to give up who we are 🙌 So lets raise th
 
 Aristotle, the esteemed Greek Philosopher, believed that there exists three basic activities for the human mind: theoria, poiesis, and praxis. In honor of Aristotle's wise teachings and historic legacy, I have structured my website by these three activities:
 
-📖 [Theoria](theoria.html): Activities for the sake of learning and truth seeking. My theoria will consist of journalism, book reviews, tech articles, and the like.
+📖 [Theoria](theoria.html): Activities for the sake of learning and truth seeking. My theoria consists of journalism, book reviews, tech articles, and the like.
 
-💻 [Poiesis](poiesis.html): Activities for the sake of production. My poiesis will consist of projects in all disciplines (software, art, video, etc.)
+💻 [Poiesis](poiesis.html): Activities for the sake of production. My poiesis consists of projects in all disciplines (software, art, video, etc.)
 
-✈️ [Praxis](praxis.html): Activities for the sake of action. My praxis will consist of blog posts documenting my experiences (travel, conferences, food, etc.)
+✈️ [Praxis](praxis.html): Activities for the sake of action. My praxis consists of blog posts documenting my experiences (travel, conferences, food, etc.)
 
 ---
 
 ## Contact Information
 
-I am best reached via email: [jlovato@mines.edu](mailto:jlovato@mines.edu)
+I am best reached via email: [joeylovato1@gmail.com](mailto:joeylovato1@gmail.com)
 
-Phone: 720-299-0136
+Phone: (+1) 720-299-0136
 
 [Github](https://github.com/JosephLovato)
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/JosephLovato)
+[<img class="github" src="{{ '/assets/images/oxo.png' }}" width="25"/>](https://github.com/JosephLovato)
 [LinkedIn](https://www.linkedin.com/in/joseph-lovato/)
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="25"/>](https://www.linkedin.com/in/joseph-lovato/)
+[<img src="{{ '/assets/images/ledin-logo.png' }}" width="25"/>](https://www.linkedin.com/in/joseph-lovato/)
 
 --- 
 
 ## General Experience
 
-Below are a few highlights from my career (academic and beyond). A formal resume is available upon request (jlovato@mines.edu)
+Below are a few highlights from my career (academic and beyond). A formal resume is available upon [request](mailto:joeylovato1@gmail.com) 
 
 ## + Academics
 
-<img style="float: right" height=130px src="assets/images/mines-logo.png">
+<img class="mines" style="float: right" height="115px" width="100px" src="{{ 'assets/images/oxo.png' }}">
 
 **Colorado School of Mines, Golden, CO**<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S. December 2022 Computer Science, Non-Thesis (current) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S. December 2022 Computer Science, Non-Thesis <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. May 2021<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Major: [Computer Science](https://cs.mines.edu/) + Computer Engineering  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minor: [McBride Honors Program](https://mcbride.mines.edu/) – Minor in Public Affairs
@@ -71,12 +71,13 @@ Below are a few highlights from my career (academic and beyond). A formal resume
 
 I have worked across campus in various roles, primarily as assistants/adjuncts to undergraduate CS courses
 
+- CSCI200 (Data Structures & Algorithms) Adjunct / TA
 - [CSCI262](https://cs-courses.mines.edu/csci262/spring2022/#/) (Data Structures) TA; Lead TA; Adjunct Instructor
 - CSCI101 (Intro to Computer Science) TA; Lead TA; Peer Mentor
 - [Mines Marketing and Communications Assistant](https://www.mines.edu/communications/) (video production; video editing)
 - [Harvey Scholars](https://harveyscholars.mines.edu/) Communications Coordinator 
 - [Harvey Scholars](https://harveyscholars.mines.edu/) 10th Anniversary Video Committee Lead
-- [oSTEM](https://orgs.mines.edu/ostem) (Mine's LGBTQ+ Organization) Secretary, Grad Student Liason
+- [oSTEM](https://orgs.mines.edu/ostem) (Mines' LGBTQ+ Organization) Secretary, Grad Student Liason
 
 ## + Industry
 

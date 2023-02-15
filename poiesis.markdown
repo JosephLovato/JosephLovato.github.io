@@ -15,6 +15,7 @@ Projects of mine from all disciplines (software, art, video, etc.)
 
 Here are a few CS projects from coursework:
 
+- [Soft Heap](https://github.com/sddale/soft-heap/) A C++20 implementation of Chazelle's soft heap as described by Kaplan and Zwick
 - [MarimberryPi](https://github.com/JosephLovato/MarimberryPi) Prototype of an electronic marimba using a Raspberry Pi
 - [Rate-My-Professor-Analysis](https://github.com/JosephLovato/Rate-My-Professor-Analysis) An analysis of Rate My Professor data using a SQL database
 
