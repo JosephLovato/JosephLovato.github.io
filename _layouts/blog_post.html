@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<nobr>
+  <small>{{ page.date | date: "%B %-d %Y" }}</small>
+  {% if page.location %}
+  <small>- {{ page.location }}</small>
+  {% endif %}
+</nobr>
+
+<h1>{{ page.title }}</h1>
+
+{% if page.tags %}
+<small>tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></small>
+{% endif %}
+
+
+<div class="actual_content">
+  {{ content }}
+</div>

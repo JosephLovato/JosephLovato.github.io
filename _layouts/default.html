@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/toggle-switch.css' }}">
+  <link rel="preload" href="/assets/images/github-mark.png" as="image">
+  <link rel="preload" href="/assets/images/github-mark-dark.png" as="image">
+  <link rel="preload" href="/assets/images/mines-logo.png" as="image">
+  <link rel="preload" href="/assets/images/mines-logo-dark.png" as="image">
+  <link rel="preload" href="/assets/images/ledin-logo.png" as="image">
+  <link rel="icon" type="image/png" href="/assets/images/profile.png">
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    type="text/javascript"></script>
+
+
+  {% include head-custom.html %}
+
+</head>
+
+<body>
+  <script src="{{ '/assets/js/dark-mode.js'}}"></script>
+
+  <header>
+    <div class="container">
+
+      <a id="a-title" href="{{ '/' | relative_url }}">
+        <h1 style="display: inline">{{ site.title | default: site.github.repository_name }} </h1>
+        <span style="float: right">
+          <a href="https://github.com/JosephLovato">
+            <img class="github" style="float:right;" src="{{ '/assets/images/oxo.png' }}" width="40" height="40" />
+          </a>
+          <a href="https://www.linkedin.com/in/joseph-lovato/">
+            <img class="linkedin" style="float:right; padding-left: 10pt; padding-right: 5pt;"
+              src="{{ '/assets/images/oxo.png' }}" width="40" height="40" />
+          </a>
+          <h3 style="display: inline; float: right; padding-top: 8pt; padding-right: 20pt;">
+            {% assign mypages = site.pages | sort: "order" | where: "type", "primary" %}
+            {% for page in mypages %}
+            <a style="text-decoration: none; padding: 6pt;" href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+            {% endfor %}
+          </h3>
+        </span>
+
+      </a>
+
+
+    </div>
+  </header>
+
+  <div class="container">
+    <section id="main_content">
+      {{content | markdownify }}
+    </section>
+
+  </div>
+
+  <footer style="font-family:Monaco">
+    <p>Joey Lovato ©️2022<br>
+      <small>
+        This site uses <a href="https://jekyllrb.com/">jekyll</a> and is powered by <a
+          href="https://pages.github.com/">GitHub Pages</a>
+
+        <br>
+        Dark Mode
+        <label class="switch">
+          <input type="checkbox" id="dark-mode-switch" , onclick="toggleTheme()">
+          <span class="slider round"></span>
+        </label>
+      </small>
+  </footer>
+
+</body>
+
+<script src="{{ '/assets/js/dark-mode-switch.js'}}"></script>
+
+</html>
