@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is ChatGPT Conscious? 🤔"
-date:   2023-01-20
+date:   2023-03-20
 category: theoria
 tags: [ChatGPT, Philosophy, Artificial Intelligence]
 ---
