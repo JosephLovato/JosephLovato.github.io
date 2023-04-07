@@ -11,6 +11,10 @@ Projects of mine from all disciplines (software, art, video, etc.)
 
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
+## Ongoing
+
+- [TransIoT](https://github.com/JosephLovato/transIoT) Web application to track and analyze Denver's real-time public transportation data
+
 ## School CS Projects
 
 Here are a few CS projects from coursework:
@@ -37,3 +41,4 @@ Here are a few CS projects from coursework:
 ## Music
 
 - ["Mr. Miami"](https://www.youtube.com/watch?v=ZGf1Uvc9OpU) The first song I ever released. Made with Garage Band :)
+- ["Pan Out"](downloads/panout/panout_with_vocals.mp3) 🎤 **Call for vocalists!!!** 🎤 I sing on the current track, but I am definitely **not** a singer so *please*, if you're interested, [contact](mailto:joeylovato1@gmail.com) me! Some other files: [version without vocals](downloads/panout/panout_novocals.mp3), [version with synth vocals](downloads/panout/panout_with_synth_vocals.mp3), [score with lyrics](downloads/panout/panout_score.pdf), [lyrics](downloads/panout/panout_lyrics.txt)
