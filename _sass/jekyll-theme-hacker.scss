@@ -408,3 +408,21 @@ ol.bibliography li:before {
 .dark-mode {
   @include dark-mode
 }
+
+.left-figure {
+  float: left;
+  width: 40%;
+  text-align: center;
+  padding-right: 20px;
+}
+
+.right-figure {
+  float: right;
+  width: 40%;
+  text-align: center;
+  padding-left: 20px;
+}
+
+.center-figure {
+  text-align: center;
+}
