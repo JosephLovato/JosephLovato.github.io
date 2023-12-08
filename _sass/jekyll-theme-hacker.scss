@@ -11,6 +11,7 @@ $header-foreground: #0079db;
 $link-color: #0079db;
 $blockquote-color: #0079db;
 $blockquote-border: #666;
+$emphasis-background-color: #cccccc;
 
 // dark mode colors
 $body-background-dark: #202123;
@@ -20,6 +21,7 @@ $header-foreground-dark: rgb(69, 159, 248);
 $link-color-dark: rgb(69, 159, 248);
 $blockquote-color-dark: rgb(69, 159, 248);
 $blockquote-border-dark: #aaa;
+$emphasis-background-color: #cccccc;
 
 @mixin dark-mode {
   background: $body-background-dark;
@@ -68,6 +70,10 @@ $blockquote-border-dark: #aaa;
   .mines {
     background-image: url("/assets/images/mines-logo-dark.png");
     background-size: 100%;
+  }
+
+  .emphasis-box {
+    background-color: $emphasis-background-color;
   }
 
 }
@@ -426,3 +432,20 @@ ol.bibliography li:before {
 .center-figure {
   text-align: center;
 }
+
+.emphasis-box {
+  color: $blockquote-color;
+  background-color: $emphasis-background-color;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  padding-right: 1rem;
+}
+
+// .full-width-landscape {
+//   background-image: linear-gradient(to bottom, background-color 0%, rgba(255, 255, 255, 1) 80%), url(/assets/images/denver-at-dusk.jpeg);
+//   background-position: bottom;
+//   background-size: cover;
+//   padding: 2rem;
+//   mask-image: url
+// }

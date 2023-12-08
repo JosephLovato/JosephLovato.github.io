@@ -5,7 +5,7 @@ type: primary
 order: 3
 ---
 
-# Poiesis
+# 💻 Poiesis
 
 Projects of mine from all disciplines (software, art, video, etc.)
 
@@ -35,10 +35,12 @@ Here are a few CS projects from coursework:
 
 ## Video Projects
 
+- ["Vida No Brasil"](https://www.youtube.com/watch?v=pi9LSNXEwL4) A short vlog from a trip to Brazil
 - ["Bliss Await in Tivoli"](https://www.youtube.com/watch?v=SmBrW9T3C7E) A short-form piece about my adventures in Tivoli, Italy
 - ["A Few Days in Tokyo 2017"](https://youtu.be/CWHTFtZsQug) A vlog from my trip to Tokyo, Japan
 
 ## Music
 
 - ["Mr. Miami"](https://www.youtube.com/watch?v=ZGf1Uvc9OpU) The first song I ever released. Made with Garage Band :)
+- ["Endorphins"](downloads/endorphins.mp3) Someone please help me mix this!
 - ["Pan Out"](downloads/panout/panout_with_vocals.mp3) 🎤 **Call for vocalists!!!** 🎤 I sing on the current track, but I am definitely **not** a singer so *please*, if you're interested, [contact](mailto:joeylovato1@gmail.com) me! Some other files: [version without vocals](downloads/panout/panout_novocals.mp3), [version with synth vocals](downloads/panout/panout_with_synth_vocals.mp3), [score with lyrics](downloads/panout/panout_score.pdf), [lyrics](downloads/panout/panout_lyrics.txt)

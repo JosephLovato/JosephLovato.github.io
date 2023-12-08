@@ -35,7 +35,7 @@ Aristotle, the esteemed Greek Philosopher, believed that there exists three basi
 
 💻 [Poiesis](poiesis.html): Activities for the sake of production. My poiesis consists of projects in all disciplines (software, art, video, etc.)
 
-✈️ [Praxis](praxis.html): Activities for the sake of action. My praxis consists of blog posts documenting my experiences (travel, conferences, food, etc.)
+🛫 [Praxis](praxis.html): Activities for the sake of action. My praxis consists of blog posts documenting my experiences (travel, conferences, food, etc.)
 
 ---
 
@@ -54,7 +54,23 @@ Phone: (+1) 720-299-0136
 
 ## General Experience
 
+<div class="emphasis-box">
+I have a B.S. and M.S. in computer science from the Colorado School of Mines. During college, I spent three summers in the aerospace industry, primarily doing software testing (see below). I also have experience in web technologies, including C#/.Net, Node.js, React, Angular, and HTML/CSS. My primary languages are C++, JavaScript/TypeScript, and Python, but I have also worked with C, Go, C#, Java, OCaml, and Lisp.
+</div>
 Below are a few highlights from my career (academic and beyond). A formal resume is available upon [request](mailto:joeylovato1@gmail.com) 
+
+
+## + Industry
+
+I am currently a software developer (under furlough) at [Woodridge Software](https://woodridgesoftware.com/) (now an [RCG Global Services](https://rcgglobalservices.com/news-and-events/news/rcg-acquires-woodridge-software) Company).
+
+My internships in college included:
+
+- [VTO](https://www.vtolabs.com/) (Summer 2018): Digital Forensics
+- Lockheed Martin Space (Summer 2019): Embedded C++ software for [SmartSat](https://www.lockheedmartin.com/en-us/products/satellite.html)
+- Lockheed Martin Space (Summer 2020): Test scripting (TCL) for [Lucy Spacecraft](https://lockheedmartin.com/en-us/products/lucy.html)
+- Lockheed Martin Space (Summer 2021): Mission operations flight rule development (Python) for the [Lucy Spacecraft](https://lockheedmartin.com/en-us/products/lucy.html)
+- [Tyler Technologies](https://www.tylertech.com/) (Summer 2022): C# Web Development
 
 ## + Academics
 
@@ -69,7 +85,7 @@ Below are a few highlights from my career (academic and beyond). A formal resume
 
 ### *Academic Roles*
 
-I have worked across campus in various roles, primarily as assistants/adjuncts to undergraduate CS courses
+I worked across campus in various roles, primarily as assistants/adjuncts to undergraduate CS courses.
 
 - CSCI200 (Data Structures & Algorithms) Adjunct / TA
 - [CSCI262](https://cs-courses.mines.edu/csci262/spring2022/#/) (Data Structures) TA; Lead TA; Adjunct Instructor
@@ -77,12 +93,4 @@ I have worked across campus in various roles, primarily as assistants/adjuncts t
 - [Mines Marketing and Communications Assistant](https://www.mines.edu/communications/) (video production; video editing)
 - [Harvey Scholars](https://harveyscholars.mines.edu/) Communications Coordinator 
 - [Harvey Scholars](https://harveyscholars.mines.edu/) 10th Anniversary Video Committee Lead
-- [oSTEM](https://orgs.mines.edu/ostem) (Mines' LGBTQ+ Organization) Secretary, Grad Student Liason
-
-## + Industry
-
-- [VTO](https://www.vtolabs.com/) (Summer 2018): Digital Forensics
-- Lockheed Martin Space (Summer 2019): Embedded C++ software for [SmartSat](https://www.lockheedmartin.com/en-us/products/satellite.html)
-- Lockheed Martin Space (Summer 2020): Test scripting (TCL) for [Lucy Spacecraft](https://lockheedmartin.com/en-us/products/lucy.html)
-- Lockheed Martin Space (Summer 2021): Mission operations flight rule development (Python) for the [Lucy Spacecraft](https://lockheedmartin.com/en-us/products/lucy.html)
-- [Tyler Technologies](https://www.tylertech.com/) (Summer 2022): C# Web Development
+- [oSTEM](https://orgs.mines.edu/ostem) (Mines' LGBTQ+ Organization) Secretary, Grad Student Liaison

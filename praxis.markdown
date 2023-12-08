@@ -1,13 +1,13 @@
 ---
-title: ✈️ Praxis
+title: 🛫 Praxis
 layout: default
 type: primary
 order: 4
 ---
 
-# ✈️ Praxis 
+# 🛫 Praxis 
 
-All experience blog
+All-experience blog
 
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
 

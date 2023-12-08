@@ -5,7 +5,7 @@ type: primary
 order: 2
 ---
 
-# Theoria
+# 📖 Theoria
 
 Learning and truth seeking via journalism, book reviews, tech articles, and the like
 
