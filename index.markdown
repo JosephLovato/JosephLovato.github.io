@@ -55,7 +55,7 @@ Phone: (+1) 720-299-0136
 ## General Experience
 
 <div class="emphasis-box">
-I have a B.S. and M.S. in computer science from the Colorado School of Mines. During college, I spent three summers in the aerospace industry, primarily doing software testing (see below). I also have experience in web technologies, including C#/.Net, Node.js, React, Angular, and HTML/CSS. My primary languages are C++, JavaScript/TypeScript, and Python, but I have also worked with C, Go, C#, Java, OCaml, and Lisp.
+I have a B.S. and M.S. in computer science from the Colorado School of Mines. During college, I spent three summers in the aerospace industry, primarily doing software testing (see below). I also have experience in web technologies, including Node.js, React, Angular, and HTML/CSS. My primary languages are C++, JavaScript/TypeScript, and Python, but I have also worked with C, Go, C#, Java, OCaml, and Lisp.
 </div>
 Below are a few highlights from my career (academic and beyond). A formal resume is available upon [request](mailto:joeylovato1@gmail.com) 
 
