@@ -1,0 +1,106 @@
+---
+layout: post
+title:  "2023 Books in Review"
+date:   2024-02-14
+category: theoria
+tags: [Books]
+cover: assets/images/read-sunset-2023.jpg
+---
+
+Reviews and commentary on books I read in 2023.
+
+<div class="center-figure">
+    <img width="50%" src="/assets/images/read-sunset-2023.jpg">
+     <br> <small>My favorite 2023 reading spot, during sunset of course; <a href="mailto:joeylovato1@gmail.com" target="_blank">email</a> me a book recommendation and I'll tell you where it is! </small>
+</div>
+
+This year has been quite the wild ride with books! After finishing grad school December of 2022, I made it a mission to read more, both nonfiction and fiction. I am writing this post to (a) synthesize my takeaways from each book and (b) share my reviews. The same book can be a very different experience for each reader, so take my reviews as what they are: opinions. I will not rate my reviews on any kind of numeric scale, but instead give short blurbs, not dissimilar to what you might read on the cover of one of these books, unless---of course---the blurb is more critical than complimentary.
+
+---
+**⚖️ The Tipping Point** by *Malcolm Gladwell*
+
+> A Gladwellian perspective on the mechanisms at play in trendiness
+
+✅ *Recommended for fans of Vox (Gladwell writes a lot like how Vox makes video essays)*
+
+⛔ *Not recommended for anyone with a dislike for repetition*
+
+I found myself quoting and bringing up many of the ideas Gladwell lays out in this book in my daily life. Gladwell has mastered the ability to clearly argue his points with storied evidence and leave a residue of curiosity on every reader. However, Gladwell does rely heavily on one obvious form of rhetoric: repetition. The book could have been condensed by a quarter. But, as the skilled essayist that he is, I'll give him the benefit of the doubt that this tactic keeps the reader engaged and constantly reaffirming his thesis---a forced "stickiness". 
+
+---
+**🃏 Moonwalking with Einstein** by *Joshua Foer*
+
+> The story of a young journalist who, in studying memory champions, becomes one himself
+
+✅ *Recommended for anyone in search of ways to improve memory*
+
+⛔ *Not recommended for memory champions, as you probably know everything already*
+
+Foer's story of becoming a memory champion is captivating, interesting, and impressive. The primary goal of memorizing a deck of cards leads Foer on a journey you just can't put down. Although I do not have any interest in training my memory to the levels Foer and other memory champions did, I do regularly utilize the memory techniques I learned from the book in my daily life (for example, I will never again forget my locker number in the gym)
+
+---
+**✨ The Three-Body Problem** by *Liu Cixin*
+
+> An elegant and thought-provoking story of the forces at play when we slide into an alien civilization's DMs
+
+✅ *Recommended for fans of groundbreaking science fiction*
+
+⛔ *Not recommended for those uninterested in science, technology and philosophy*
+
+Cixin's first novel in the Three-Body Problem series is a masterpiece. It is simply one of those books that changes how one thinks and believes. The cast of characters may be hard to keep track of, but trust Cixin in leading you through his story and you'll reap the rewards. 
+
+---
+**❤️‍🔥 The Heart's Invisible Furies** by *John Boyne*
+
+> A fully immersive life story of a boy as he navigates the dissonance between his Irish upbringing and sexuality
+
+✅ *Recommended for fans of Irish history, LGBTQ+ rights, and three-dimensional characters*
+
+⛔ *Not recommended for homophobes*
+
+Boyne's reflection on Ireland's LGBTQ+ history fills every page of this intensely emotional novel. Be prepared to cry as Boyne tells the tales of a main character desperate to find himself in a country crippled by religious judgment. Reading this book as a bisexual man myself, I was pleased to find Boyne's experiences as a gay man imbued on the main character in ways I am grateful he had the courage to write and publish. The Irish history was deep and raw and I celebrate Boyne's mission to show the world an Ireland that, quite frankly, spelled misery for queer people over many decades.
+
+---
+**🚀 Project Hail Mary** by *Andy Weir*
+
+> The cutest, nerdiest, and inventive science fiction novel since *The Martian* (also by Weir)
+
+✅ *Recommended for fans of science fiction and science*
+
+⛔ *Not recommended for haters of science fiction and science*
+
+Weir's sense of imagination within the bounds of *fairly* accurate science makes for a book with as many experiments as characters and exhilarating chapters that could be easily translated into movie scenes (no accident there I surmise). The book is a meditation on humanity's place in the universe, similar to *The Three-Body Problem*, but with Weir's humor and lightness. You'll be laughing through this book, albeit sometimes cry-laughing.
+
+---
+**🌲 The Overstory** by *Richard Powers*
+
+> A story about the organisms we so drastically take for granted, told through a cast of characters who are as crazy as they are relatable.
+
+✅ *Recommended for anyone seeking exposure to sustainability activism and abundant plant knowledge*
+
+⛔ *Not recommended for people who find joy in cutting down trees*
+
+It was my turn to pick my book club's book so I researched Pulitzer prize winners. A bit of scrolling landed me on *The Overstory*, its enticing summary and woody cover winning me over. Powers is a masterful storyteller with vivid prose to bring his elaborate characters to life and as much research as a non-fiction book. If you don't mind having a search engine nearby, you will learn many new words and discover many new species of plants along the way. Not to mention the roots of sustainability raveled eloquently throughout the book, reminding us of things we all know but don't quite fully understand: trees are amazing, cutting them down is a tragedy, and we have the power to make radical change. If you are serious about sustainability and becoming more familiar with the world of trees, pick up this book and read it with purpose.
+
+---
+**📚 Mr. Penumbra's 24 Hour Bookstore** by *Robin Sloan*
+
+> A mystery thriller set in silicon valley with equal parts technology, art, and books
+
+✅ *Recommended for anyone with curiosity*
+
+⛔ *Not recommended for people who don't like books*
+
+I picked this book up at my parent's house around the holidays. The title drew me in and once I started I *had* to finish. Coming from a technology background, I found Sloan's perspective on the tech industry refreshing as I navigate being laid off. The book is thrilling, fast-paced, and leaves you wanting to visit a book store.
+
+--- 
+**🔥 Fear the Flames** by *Olivia Rose Darling*
+
+> A tale of friends and foes, love and hate, and the fire ablaze in our hearts 
+
+✅ *Recommended for those who love dragons*
+
+⛔ *Not recommended for dragon haters*
+
+This book was written by my friend [Liv](https://www.instagram.com/itslivdarling/?hl=en)!! The main characters, Elowen and Cayden---both relentlessly passionate in their own ways---navigate an adventure into politics, combat, and a reflection on who they are. Liv's thoughtful way of weaving her story with important life lessons make this book more than a fantasy adventure; it is a meditation on what sets our souls on fire.
+

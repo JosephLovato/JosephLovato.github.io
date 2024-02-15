@@ -22,7 +22,7 @@ Same goes in the other direction. If you can imagine a grain of sand, then you c
 So, here it is, with a few edits and additions from its original draft in my notebook:
 
 
-> <div style="font-family: Georgia">
+> <div style="font-family: Georgia; text-align: left">
     Here I stand<br>
     Ever small<br>
     Ever large<br>
