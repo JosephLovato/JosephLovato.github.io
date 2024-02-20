@@ -14,6 +14,7 @@ Projects of mine from all disciplines (software, art, video, etc.)
 ## Ongoing
 
 - [TransIoT](https://github.com/JosephLovato/transIoT) Web application to track and analyze Denver's real-time public transportation data
+    - <a href="/transiot_redirect.html" target="_blank">Live Beta Demo</a>
 - [arcgis-snapping-utilities](https://github.com/JosephLovato/arcgis-snapping-utilities) Snapping utilities for points and polylines in ArcGIS Maps SDK for JavaScript
 
 ## School CS Projects
