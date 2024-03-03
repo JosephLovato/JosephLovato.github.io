@@ -61,7 +61,7 @@ Below are a few highlights from my career (academic and beyond). A formal resume
 
 ## + Industry
 
-I am currently a software developer (under furlough) at [Woodridge Software](https://woodridgesoftware.com/) (now an [RCG Global Services](https://rcgglobalservices.com/news-and-events/news/rcg-acquires-woodridge-software) Company).
+- [Woodridge Software](https://woodridgesoftware.com/) ([RCG Global Services](https://rcgglobalservices.com/news-and-events/news/rcg-acquires-woodridge-software)) (Sep 2023 - Nov 2023): Trained in Go, React, JavaScript, TypeScript, HTML/CSS, Network/Web Security
 
 My internships in college included:
 
