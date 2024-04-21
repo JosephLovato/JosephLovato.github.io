@@ -54,13 +54,14 @@ Phone: (+1) 720-299-0136
 ## General Experience
 
 <div class="emphasis-box">
-I have a B.S. and M.S. in computer science from the Colorado School of Mines. During college, I spent three summers in the aerospace industry, primarily doing software testing (see below). I also have experience in web technologies, including Node.js, React, Angular, and HTML/CSS. My primary languages are C++, JavaScript/TypeScript, and Python, but I have also worked with C, Go, C#, Java, OCaml, and Lisp.
+I have a B.S. and M.S. in computer science from the Colorado School of Mines. During college, I spent three summers in the aerospace industry, primarily doing software testing (see below). I also have experience in web technologies, including Node.js, React, Angular, and HTML/CSS. My primary languages are C++, JavaScript/TypeScript, and Python, but I have also worked with C, Go, C#, Java, PHP, OCaml, and Lisp.
 </div>
 Below are a few highlights from my career (academic and beyond). A formal resume is available upon [request](mailto:joeylovato1@gmail.com) 
 
 
 ## + Industry
 
+- [Datava](https://datava.com/) (Apr 2024 - Current): Implementing data activation software for credit unions (PHP, JavaScript, HTML, MySQL, Bash)
 - [Woodridge Software](https://woodridgesoftware.com/) ([RCG Global Services](https://rcgglobalservices.com/news-and-events/news/rcg-acquires-woodridge-software)) (Sep 2023 - Nov 2023): Trained in Go, React, JavaScript, TypeScript, HTML/CSS, Network/Web Security
 
 My internships in college included:
