@@ -43,6 +43,8 @@ Here are a few CS projects from coursework:
 
 ## Music
 
+Check out my [SoundCloud](https://on.soundcloud.com/u1mi8jMi7Ch864Lo8)
+
 - ["Mr. Miami"](https://www.youtube.com/watch?v=ZGf1Uvc9OpU) The first song I ever released. Made with Garage Band :)
 - ["Endorphins"](downloads/endorphins.mp3) Someone please help me mix this!
 - ["Pan Out"](downloads/panout/panout_with_vocals.mp3) 🎤 **Call for vocalists!!!** 🎤 I sing on the current track, but I am definitely **not** a singer so *please*, if you're interested, [contact](mailto:joeylovato1@gmail.com) me! Some other files: [version without vocals](downloads/panout/panout_novocals.mp3), [version with synth vocals](downloads/panout/panout_with_synth_vocals.mp3), [score with lyrics](downloads/panout/panout_score.pdf), [lyrics](downloads/panout/panout_lyrics.txt)

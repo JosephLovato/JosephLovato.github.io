@@ -9,7 +9,7 @@ type: primary
 
 <img style="float: left; padding-right: 20px;" src="assets/images/profile.png" width=200px title="shout out to my friend Malaya for taking this amazing candid shot with a film camera!">
 
-Hello there! I am an energetic computer scientist, creative problem solver, and thoughtful communicator with a passion for teaching, learning, and interdisciplinary collaboration in a time when intelligent systems and complex algorithms are changing the way people interact with computers, each other, and the world.
+Hello there! I am an energetic computer scientist, creative problem solver, and thoughtful communicator with a passion for teaching, learning, and interdisciplinary collaboration; always striving to enhance our human experience by focusing on empathy, equality, and technical dexterity in an ever-changing world.
 In complement to my journey as a computer scientist, I am also a writer, philosopher, musician, filmmaker, gym-goer, and traveler.
 
 
