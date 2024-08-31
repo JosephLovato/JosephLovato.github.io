@@ -9,7 +9,7 @@ type: primary
 
 <img style="float: left; padding-right: 20px;" src="assets/images/profile.png" width=200px title="shout out to my friend Malaya for taking this amazing candid shot with a film camera!">
 
-Hello there! I am an energetic computer scientist, creative problem solver, and thoughtful communicator with a passion for teaching, learning, and interdisciplinary collaboration; always striving to enhance our human experience by focusing on empathy, equality, and technical dexterity in an ever-changing world.
+Hello there! I am an energetic computer scientist, creative problem solver, and thoughtful communicator with a passion for teaching, learning, and interdisciplinary collaboration. I am always striving to enhance our human experience by focusing on empathy, equality, and technical dexterity in an ever-changing world.
 In complement to my journey as a computer scientist, I am also a writer, philosopher, musician, filmmaker, gym-goer, and traveler.
 
 
@@ -61,7 +61,8 @@ Below are a few highlights from my career (academic and beyond). A formal resume
 
 ## + Industry
 
-- [Datava](https://datava.com/) (Apr 2024 - Current): Implementing data activation software for credit unions (PHP, JavaScript, HTML, MySQL, Bash)
+- [Plentiful](https://plentiful.org/) (Aug 2024 - Current): Associate Software Engineer
+- [Datava](https://datava.com/) (Apr 2024 - Aug 2024): Implemented data activation software for credit unions (PHP, JavaScript, HTML, MySQL, Bash)
 - [Woodridge Software](https://woodridgesoftware.com/) ([RCG Global Services](https://rcgglobalservices.com/news-and-events/news/rcg-acquires-woodridge-software)) (Sep 2023 - Nov 2023): Trained in Go, React, JavaScript, TypeScript, HTML/CSS, Network/Web Security
 
 My internships in college included:
