@@ -18,7 +18,11 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-
+            
+      - name: Configure Git
+        run: |
+          git config --global http.postBuffer 157286400  # Set buffer to 150MB (or adjust as needed)
+          
       # Use GitHub Deploy Action to build and deploy to Github
       # For latest version: `jeffreytse/jekyll-deploy-action@master`
       - uses: jeffreytse/jekyll-deploy-action@v0.6.0
